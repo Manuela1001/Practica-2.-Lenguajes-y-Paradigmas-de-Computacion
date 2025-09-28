@@ -6,7 +6,9 @@
 
 ## Plataformas y recursos
 - `prolog` - lenguaje principal utilizado para desarrollar el programa.
-- `Ejemplo guía` - proporcionado en el documento.
+- `Ejemplo guía` - proporcionado en el documento de la asignación.
+- `Referencias` - Listadas en el archivo adjunto.
+- `IA` - apoyo para generar ideas y ejemplos de código.
 
 ## Descripción
 Este proyecto implementa un sistema de gestión de venta de vehículos en **Prolog**.  

@@ -7,7 +7,7 @@
 ## Plataformas y recursos
 - `prolog` - lenguaje principal utilizado para desarrollar el programa.
 - `Ejemplo guía` - proporcionado en el documento de la asignación.
-- `Referencias` - listadas en el archivo adjunto.
+- `Referencias` - listadas en el pdf.
 - `IA` - apoyo para generar ideas y ejemplos de código.
 
 ## Descripción
